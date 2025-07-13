@@ -1,0 +1,19 @@
+name: com.ingsorre97.render-hell
+displayName: Render Hell
+description: 'A Unity project designed to test my HLSL skills and your GPU patience. '
+repoUrl: https://github.com/IngSorre97/Render-Hell
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - ar-and-vr
+  - particles-and-effects
+  - input-management
+  - modeling
+hunter: IngSorre97
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: upm:LICENSE.md
+createdAt: 1752402668156
